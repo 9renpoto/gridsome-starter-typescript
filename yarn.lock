@@ -8661,10 +8661,10 @@ vm-browserify@^1.0.1:
   resolved "https://registry.yarnpkg.com/vm-browserify/-/vm-browserify-1.1.0.tgz#bd76d6a23323e2ca8ffa12028dc04559c75f9019"
   integrity sha512-iq+S7vZJE60yejDYM0ek6zg308+UZsdtPExWP9VZoCFCz1zkJoXFnAX7aZfd/ZwrkidzdUZL0C/ryW+JwAiIGw==
 
-vue-class-component@^7.0.1:
-  version "7.1.0"
-  resolved "https://registry.yarnpkg.com/vue-class-component/-/vue-class-component-7.1.0.tgz#b33efcb10e17236d684f70b1e96f1946ec793e87"
-  integrity sha512-G9152NzUkz0i0xTfhk0Afc8vzdXxDR1pfN4dTwE72cskkgJtdXfrKBkMfGvDuxUh35U500g5Ve4xL8PEGdWeHg==
+vue-class-component@^7.1.0:
+  version "7.2.6"
+  resolved "https://registry.yarnpkg.com/vue-class-component/-/vue-class-component-7.2.6.tgz#8471e037b8e4762f5a464686e19e5afc708502e4"
+  integrity sha512-+eaQXVrAm/LldalI272PpDe3+i4mPis0ORiMYxF6Ae4hyuCh15W8Idet7wPUEs4N4YptgFHGys4UrgNQOMyO6w==
 
 vue-eslint-parser@^5.0.0:
   version "5.0.0"
@@ -8704,13 +8704,12 @@ vue-meta@^1.6.0:
     lodash.uniqueid "^4.0.1"
     object-assign "^4.1.1"
 
-vue-property-decorator@^8.2.0:
-  version "8.2.1"
-  resolved "https://registry.yarnpkg.com/vue-property-decorator/-/vue-property-decorator-8.2.1.tgz#3791662033b20d20d098cb20e86fd23842982508"
-  integrity sha512-zgtcvzGB2JpDqnIxVhTK+6m+dv3uyhYs+tL8elL+DWiXj9kDonKcPY7f1DHYX1NlnWPCj7ht0nL/i8+S1gg76Q==
+vue-property-decorator@^8.4.0:
+  version "8.4.0"
+  resolved "https://registry.yarnpkg.com/vue-property-decorator/-/vue-property-decorator-8.4.0.tgz#f4e641f84ca51a7b4721e236392a1efbb6eac00b"
+  integrity sha512-0o85LJSTLZvDaB7IXfmpONfAQZ7NgScFvptFSrlFFSsScR716muJb3mMFojNnKC3Vpm7CM4PsmHNdk30uuNpag==
   dependencies:
-    vue "^2.6.10"
-    vue-class-component "^7.0.1"
+    vue-class-component "^7.1.0"
 
 vue-router@^3.0.6:
   version "3.0.6"

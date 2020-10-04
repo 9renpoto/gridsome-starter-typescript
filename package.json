@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "gridsome": "^0.6.4",
-    "vue-property-decorator": "^8.2.0"
+    "vue-property-decorator": "^8.4.0"
   },
   "devDependencies": {
     "husky": "^2.7.0",
