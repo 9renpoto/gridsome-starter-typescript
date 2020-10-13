@@ -26,7 +26,7 @@
     "@typescript-eslint/eslint-plugin": "^1.11.0",
     "gridsome-plugin-typescript": "0.4.0",
     "typescript": "^3.5.0",
-    "ts-loader": "^6.0.0"
+    "ts-loader": "^8.0.5"
   },
   "lint-staged": {
     "*.(vue|ts)": "yarn lint:check"
