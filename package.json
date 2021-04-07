@@ -25,7 +25,7 @@
     "@typescript-eslint/parser": "^1.11.0",
     "@typescript-eslint/eslint-plugin": "^1.11.0",
     "gridsome-plugin-typescript": "0.4.0",
-    "typescript": "^3.5.0",
+    "typescript": "^4.2.4",
     "ts-loader": "^6.0.0"
   },
   "lint-staged": {
