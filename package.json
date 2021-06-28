@@ -9,7 +9,7 @@
     "lint:fix": "yarn lint:check --fix"
   },
   "dependencies": {
-    "gridsome": "^0.6.4",
+    "gridsome": "^0.7.23",
     "vue-property-decorator": "^8.2.0"
   },
   "devDependencies": {
